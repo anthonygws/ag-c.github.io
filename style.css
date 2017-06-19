@@ -8,17 +8,17 @@
 	src: url('fonts/Print.ttf');
 }
 
-body { background-color: #fcfcfc; color: #333; font-family: Print, 'Open Sans', sans-serif; }
+body { background-color: #d2d4dd; color: #333; font-family: Print, 'Open Sans', sans-serif; }
 .cursive { font-family: Notera, "Playfair Display", serif; }
 h2, h3, h4, h5 { font-family: Print, 'Open Sans', sans-serif; }
 
 .separator {
-	background: #B61629;
+	background: #d3cdce;
 	color: white;
 	font-weight: bold;
-	box-shadow: inset 0 15px 30px -10px #770922, inset 0 -15px 30px -10px #770922;
-	border-top: 1px solid #770922;
-	border-bottom: 1px solid #770922;
+	box-shadow: inset 0 15px 30px -10px #7a6f71, inset 0 -15px 30px -10px #7a6f71;
+	border-top: 1px solid #7a6f71;
+	border-bottom: 1px solid #7a6f71;
 	padding: 50px 0;
 }
 
@@ -55,15 +55,15 @@ header > a, header > a:hover, header > a:active, header > a:visited, header > a:
     font-family: Print, 'Open Sans', sans-serif;
     font-style: italic;
     font-size: 2.5em;
-    background: #D0021B;
-    background: linear-gradient(135deg, #D0021B 0%, #8f0222 100%);
+    background: #b7b0b1;
+    background: linear-gradient(135deg, #d1c8c9 0%, #efeded 100%);
     text-decoration: none;
     border-radius: 5px;
     border: 1px solid rgba(143,2,34,.5);
 }
 
 nav {
-	color: #D0021B;
+	color: #efeded;
     font-family: Print, 'Open Sans', sans-serif;
     width: 100%;
 }
@@ -83,13 +83,13 @@ nav li {
 
 nav li img { margin-top: -8px; }
 nav li a, nav li a:active, nav li a:hover, nav li a:visited {
-	color: #D0021B;
+	color: #efeded;
 	text-decoration: none;
 	transition: all .3s;
 	padding: 5px 10px;
     border-radius: 3px;
 }
-nav li a:hover { background-color: #D0021B; color: white; }
+nav li a:hover { background-color: #efeded; color: white; }
 
 @media (max-width: 768px) {
 	header {
@@ -166,12 +166,12 @@ nav li a:hover { background-color: #D0021B; color: white; }
 
 #slideshow .carousel-indicators li {
 	background-color: white;
-	border: 1px solid #770922;
+	border: 1px solid #efeded;
 }
 
 #slideshow .carousel-indicators li.active {
-	background-color: #B61629;
-	border: #770922;
+	background-color: #efeded;
+	border: #efeded;
 }
 
 #slideshow .carousel-control {
@@ -179,7 +179,7 @@ nav li a:hover { background-color: #D0021B; color: white; }
 }
 
 #slideshow .carousel-control span {
-	color: #B61629;
+	color: #efeded;
 }
 
 /*
