@@ -1,1 +1,3 @@
-# ag-c.github.io
+# AG & C
+
+Anthony Ghyssens - Management Consultant
