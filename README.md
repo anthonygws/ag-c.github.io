@@ -1,3 +1,3 @@
 # AG & C
 
-Anthony Ghyssens - Management Consultant
+Management Consultant
